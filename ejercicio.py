@@ -1,4 +1,3 @@
-from turtle import position
 from primeraparte import crear_tabla,añadir,encontrar
 tabla=crear_tabla(9)
 nombre=input()
