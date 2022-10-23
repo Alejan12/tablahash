@@ -1,6 +1,3 @@
-from turtle import position
-
-
 def crear_tabla(tamaño):
     tabla=[None]*tamaño
     return tabla
